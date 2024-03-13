@@ -1,1 +1,1 @@
-config:release-1.7.x
+config:release-1.2.x
